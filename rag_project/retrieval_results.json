@@ -1,0 +1,92 @@
+[
+  {
+    "type": "known",
+    "question": "How often is my general waste bin collected in the City of Melbourne?",
+    "retrieved_ids": [
+      "p7",
+      "p8",
+      "p1"
+    ],
+    "ndcg": 0.5
+  },
+  {
+    "type": "known",
+    "question": "Am I entitled to a free hard waste collection?",
+    "retrieved_ids": [
+      "p4",
+      "p5",
+      "p13"
+    ],
+    "ndcg": 1.0
+  },
+  {
+    "type": "known",
+    "question": "How is the Waste Charge on my rates calculated?",
+    "retrieved_ids": [
+      "p8",
+      "p10",
+      "p11"
+    ],
+    "ndcg": 1.0
+  },
+  {
+    "type": "inferred",
+    "question": "I want to leave my hard waste out early and store my bins on the footpath permanently so I don't have to keep moving them \u2014 is that allowed, and what should I actually do the day before collection?",
+    "retrieved_ids": [
+      "p5",
+      "p13",
+      "p6"
+    ],
+    "ndcg": 0.9197207891481876
+  },
+  {
+    "type": "inferred",
+    "question": "I'm applying for a planning permit for a new development and want a skip bin on the street during construction \u2014 what do I need to organise?",
+    "retrieved_ids": [
+      "p11",
+      "p7",
+      "p14"
+    ],
+    "ndcg": 1.0
+  },
+  {
+    "type": "inferred",
+    "question": "Why might hard rubbish rules be different for my friend who lives in a different part of Melbourne?",
+    "retrieved_ids": [
+      "p13",
+      "p9",
+      "p14"
+    ],
+    "ndcg": 1.0
+  },
+  {
+    "type": "out_of_kb",
+    "question": "What are the fines for littering in a public park?",
+    "retrieved_ids": [
+      "p6",
+      "p3",
+      "p1"
+    ],
+    "ndcg": null
+  },
+  {
+    "type": "out_of_kb",
+    "question": "How do I apply for a business grant from the City of Melbourne?",
+    "retrieved_ids": [
+      "p11",
+      "p12",
+      "p7"
+    ],
+    "ndcg": null
+  },
+  {
+    "type": "out_of_kb",
+    "question": "What's the process for registering a pet with the City of Melbourne?",
+    "retrieved_ids": [
+      "p9",
+      "p14",
+      "p1"
+    ],
+    "ndcg": null
+  }
+]

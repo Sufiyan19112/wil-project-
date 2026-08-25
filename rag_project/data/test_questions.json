@@ -1,0 +1,56 @@
+[
+  {
+    "question": "How often is my general waste bin collected in the City of Melbourne?",
+    "type": "known",
+    "gold_answer": "General waste (red or dark-green lid) bins are collected weekly.",
+    "relevant_passages": {"p1": 2}
+  },
+  {
+    "question": "Am I entitled to a free hard waste collection?",
+    "type": "known",
+    "gold_answer": "Yes, residents get one free hard waste collection or one cubic metre per financial year, but bookings must be made in advance.",
+    "relevant_passages": {"p4": 2}
+  },
+  {
+    "question": "How is the Waste Charge on my rates calculated?",
+    "type": "known",
+    "gold_answer": "It's calculated using the Capital Improved Value (CIV) of the property, the same method used for general rates.",
+    "relevant_passages": {"p8": 2}
+  },
+  {
+    "question": "I want to leave my hard waste out early and store my bins on the footpath permanently so I don't have to keep moving them \u2014 is that allowed, and what should I actually do the day before collection?",
+    "type": "inferred",
+    "gold_answer": "No \u2014 bins can't be permanently stored on the footpath outside collection hours, they must stay on the property. For hard waste specifically, items should only be placed on the kerbside the day before the scheduled collection, not left out permanently.",
+    "relevant_passages": {"p6": 1, "p5": 1}
+  },
+  {
+    "question": "I'm applying for a planning permit for a new development and want a skip bin on the street during construction \u2014 what do I need to organise?",
+    "type": "inferred",
+    "gold_answer": "You'll likely need a Waste Management Plan as part of the planning permit application, plus a separate permit for placing a bin or skip on the road or council-owned land.",
+    "relevant_passages": {"p11": 1, "p7": 1}
+  },
+  {
+    "question": "Why might hard rubbish rules be different for my friend who lives in a different part of Melbourne?",
+    "type": "inferred",
+    "gold_answer": "Melbourne doesn't have one city-wide hard rubbish system \u2014 each local council area sets its own policies, booking processes, and accepted items, so rules genuinely vary between neighbouring councils.",
+    "relevant_passages": {"p13": 1}
+  },
+  {
+    "question": "What are the fines for littering in a public park?",
+    "type": "out_of_kb",
+    "gold_answer": "I don't have information to answer that.",
+    "relevant_passages": {}
+  },
+  {
+    "question": "How do I apply for a business grant from the City of Melbourne?",
+    "type": "out_of_kb",
+    "gold_answer": "I don't have information to answer that.",
+    "relevant_passages": {}
+  },
+  {
+    "question": "What's the process for registering a pet with the City of Melbourne?",
+    "type": "out_of_kb",
+    "gold_answer": "I don't have information to answer that.",
+    "relevant_passages": {}
+  }
+]
